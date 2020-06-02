@@ -1,0 +1,3 @@
+v1.0 allows short positions IS and OOS
+v2.0 allows short positions IS, neutral OOS
+v3.0 doesnt allow short positions. Stays neutral instead of shorting IS and OOS
