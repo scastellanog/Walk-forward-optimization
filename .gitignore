@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+Buy & Hold/Performance metrics test.ipynb
+Buy & Hold/quantstats-tearsheet.html
